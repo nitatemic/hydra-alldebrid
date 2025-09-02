@@ -93,7 +93,7 @@
     "deleting": "Suppression du programme d'installation…",
     "install": "Installer",
     "options": "Gérer",
-    "alldebrid_size_not_supported": "Les informations de téléchargement pour AllDebrid ne sont pas encore prises en charge",
+    "alldebrid_size_not_supported": "Les informations de téléchargement pour AllDebrid ne sont pas encore prises en charge"
   },
   "settings": {
     "downloads_path": "Chemin des téléchargements",
@@ -113,7 +113,7 @@
     "alldebrid_banned": "Ce compte est banni",
     "alldebrid_unknown_error": "Une erreur inconnue est survenue",
     "alldebrid_invalid_response": "Réponse invalide d'AllDebrid",
-    "alldebrid_network_error": "Erreur réseau. Merci de vérifier votre connexion",
+    "alldebrid_network_error": "Erreur réseau. Merci de vérifier votre connexion"
   },
   "notifications": {
     "download_complete": "Téléchargement terminé",
