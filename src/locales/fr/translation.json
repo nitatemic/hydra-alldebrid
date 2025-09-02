@@ -104,7 +104,7 @@
     "language": "Langue",
     "real_debrid_account_linked": "Compte Real-Debrid lié",
     "enable_all_debrid": "Activer AllDebrid",
-    "all_debrid_description": "AllDebrid is an unrestricted downloader that allows you to quickly download files from various sources.",
+    "all_debrid_description": "AllDebrid est un downloader sans restriction qui vous permet de télécharger rapidement des fichiers depuis diverses sources.",
     "all_debrid_free_account_error": "Le compte \"{{username}}\" est un compte gratuit. Merci de vous abonner à AllDebrid",
     "all_debrid_account_linked": "Compte AllDebrid lié",
     "alldebrid_missing_key": "Merci de fournir une clé API",
